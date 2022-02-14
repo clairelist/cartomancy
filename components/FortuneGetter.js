@@ -1,0 +1,1 @@
+// ... the fortune getting logic lives here!
